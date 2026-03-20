@@ -4,8 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: "hourly"
+    open-pull-requests-limit: 2
 
   - package-ecosystem: "nuget"
     directory: "/code/"
     schedule:
       interval: "hourly"
+    open-pull-requests-limit: 2
