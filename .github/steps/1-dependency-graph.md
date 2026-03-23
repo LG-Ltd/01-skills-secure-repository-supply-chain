@@ -30,7 +30,7 @@ GitHub offers a range of features to help you understand the dependencies in you
 ### :keyboard: Activity 1.2: Add a new dependency and view your dependency graph
 
 1. Navigate to the **Code** tab and locate the `code/src/AttendeeSite` folder.
-1. Commit the following content on the `main` branch to the `package-lock.json` file as the last item on the `dependencies` map _(after the third to last bracket `}` and before the last two brackets)_
+1. Commit the following content on the `develop` branch to the `package-lock.json` file as the last item on the `dependencies` map _(after the third to last bracket `}` and before the last two brackets)_
 
     > 🪧 **Note:** You can edit and commit the file on github.com directly or hit the `.` key to open the lightweight editor to edit and commit changes.
 

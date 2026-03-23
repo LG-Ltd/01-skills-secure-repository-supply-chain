@@ -2,7 +2,7 @@ name: Auto-merge Dependabot PRs
 
 on:
   pull_request:
-    branches: [ "development" ]
+    branches: [ "develop" ]
     types: [opened, synchronize, reopened]
 
 permissions:
