@@ -1,12 +1,5 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    target-branch: "develop"
-    open-pull-requests-limit: 2
-
   - package-ecosystem: "nuget"
     directory: "/code/"
     schedule:
