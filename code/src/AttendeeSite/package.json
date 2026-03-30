@@ -21,6 +21,7 @@
     "ora": "^4.0.4",
     "request-promise": "^4.2.5",
     "lodash": "4.17.11",
-    "follow-redirects": "1.14.1"
+    "follow-redirects": "1.14.1",
+    "moment": "2.29.1"
   }
 }
